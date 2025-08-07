@@ -9,5 +9,5 @@ mostrar_edad("Valentina", 18)
 
 #nombre es un string <---
 # edad no es string
-#El +se usa cuando se quiere unir dos strings manualmente.
+#El + se usa cuando se quiere unir dos strings manualmente.
 #Las comas en print() ya hacen la conversión.
