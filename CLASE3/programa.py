@@ -1,4 +1,4 @@
 import saludos
 
-print(saludos.hola("Abel"))
-print(saludos.chau("UADE"))
+print(saludos.hola("AbUADEel"))
+print(saludos.chau(""))

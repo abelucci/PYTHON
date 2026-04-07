@@ -1,0 +1,4 @@
+Juan,8
+Abel,2
+Pedro,7
+Gabriela,4

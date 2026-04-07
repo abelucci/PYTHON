@@ -1,0 +1,16 @@
+[
+  {
+    "tipo": "Gasto",
+    "monto": 50.0,
+    "categoria": "transporte",
+    "descripcion": "sube",
+    "fecha": "20/10/2025 12:37"
+  },
+  {
+    "tipo": "Ingreso",
+    "monto": 100.0,
+    "categoria": "transporte",
+    "descripcion": "con la sube",
+    "fecha": "20/10/2025 12:37"
+  }
+]
